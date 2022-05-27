@@ -37,14 +37,14 @@
             flex-wrap: wrap; 
         }
         &__block{
-            max-width: 260px;
+            max-width: 290px;
         }
     }
     .about{
         display: flex;
         justify-content: center;
-        
         max-height: 500px;
+        padding-left: 10px;
         &__bg{
             display: none;
         }

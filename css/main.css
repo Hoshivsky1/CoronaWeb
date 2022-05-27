@@ -126,7 +126,7 @@ h1, h2, h3, h4, h5, h6 {
         flex-wrap: wrap;
   }
   .main__block {
-    max-width: 260px;
+    max-width: 290px;
   }
   .about {
     display: -webkit-box;
@@ -136,6 +136,7 @@ h1, h2, h3, h4, h5, h6 {
         -ms-flex-pack: center;
             justify-content: center;
     max-height: 500px;
+    padding-left: 10px;
   }
   .about__bg {
     display: none;
@@ -602,7 +603,7 @@ body {
         flex-wrap: wrap;
   }
   .header .main__block {
-    max-width: 260px;
+    max-width: 290px;
   }
   .header .about {
     display: -webkit-box;
@@ -612,6 +613,7 @@ body {
         -ms-flex-pack: center;
             justify-content: center;
     max-height: 500px;
+    padding-left: 10px;
   }
   .header .about__bg {
     display: none;
@@ -811,7 +813,7 @@ body {
         flex-wrap: wrap;
   }
   .main .main__block {
-    max-width: 260px;
+    max-width: 290px;
   }
   .main .about {
     display: -webkit-box;
@@ -821,6 +823,7 @@ body {
         -ms-flex-pack: center;
             justify-content: center;
     max-height: 500px;
+    padding-left: 10px;
   }
   .main .about__bg {
     display: none;
@@ -974,7 +977,7 @@ body {
         flex-wrap: wrap;
   }
   .about .main__block {
-    max-width: 260px;
+    max-width: 290px;
   }
   .about .about {
     display: -webkit-box;
@@ -984,6 +987,7 @@ body {
         -ms-flex-pack: center;
             justify-content: center;
     max-height: 500px;
+    padding-left: 10px;
   }
   .about .about__bg {
     display: none;
@@ -1250,7 +1254,7 @@ body {
         flex-wrap: wrap;
   }
   .about .main__block {
-    max-width: 260px;
+    max-width: 290px;
   }
   .about .about {
     display: -webkit-box;
@@ -1260,6 +1264,7 @@ body {
         -ms-flex-pack: center;
             justify-content: center;
     max-height: 500px;
+    padding-left: 10px;
   }
   .about .about__bg {
     display: none;
@@ -1544,7 +1549,7 @@ body {
         flex-wrap: wrap;
   }
   .footer .main__block {
-    max-width: 260px;
+    max-width: 290px;
   }
   .footer .about {
     display: -webkit-box;
@@ -1554,6 +1559,7 @@ body {
         -ms-flex-pack: center;
             justify-content: center;
     max-height: 500px;
+    padding-left: 10px;
   }
   .footer .about__bg {
     display: none;
