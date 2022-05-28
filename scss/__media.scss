@@ -1,3 +1,11 @@
+@media screen and (min-height:$zero) and (max-height: $xs){
+    .header{
+        &__content{
+            margin-top: 70px;
+        }
+    }
+    
+}
 @media screen and (min-width:$zero) and (max-width: $xs){
     .menu {
         margin: 0px;

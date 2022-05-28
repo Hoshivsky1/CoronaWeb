@@ -73,6 +73,12 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: inherit;
 }
 
+@media screen and (min-height: 0px) and (max-height: 576px) {
+  .header__content {
+    margin-top: 70px;
+  }
+}
+
 @media screen and (min-width: 0px) and (max-width: 576px) {
   .menu {
     margin: 0px;
@@ -555,6 +561,12 @@ body {
   width: 50px;
 }
 
+@media screen and (min-height: 0px) and (max-height: 576px) {
+  .header .header__content {
+    margin-top: 70px;
+  }
+}
+
 @media screen and (min-width: 0px) and (max-width: 576px) {
   .header .menu {
     margin: 0px;
@@ -770,6 +782,12 @@ body {
   font-family: 'Rubik';
 }
 
+@media screen and (min-height: 0px) and (max-height: 576px) {
+  .main .header__content {
+    margin-top: 70px;
+  }
+}
+
 @media screen and (min-width: 0px) and (max-width: 576px) {
   .main .menu {
     margin: 0px;
@@ -937,6 +955,12 @@ body {
   background: #FFFFFF;
   -webkit-box-shadow: 0px 4px 18px rgba(88, 126, 236, 0.18);
           box-shadow: 0px 4px 18px rgba(88, 126, 236, 0.18);
+}
+
+@media screen and (min-height: 0px) and (max-height: 576px) {
+  .about .header__content {
+    margin-top: 70px;
+  }
 }
 
 @media screen and (min-width: 0px) and (max-width: 576px) {
@@ -1219,6 +1243,12 @@ body {
       -ms-flex: 0 1 49%;
           flex: 0 1 49%;
   padding: 0px 10px;
+}
+
+@media screen and (min-height: 0px) and (max-height: 576px) {
+  .about .header__content {
+    margin-top: 70px;
+  }
 }
 
 @media screen and (min-width: 0px) and (max-width: 576px) {
@@ -1519,6 +1549,12 @@ body {
   border-radius: 16px;
   -webkit-transform: rotate(-30deg);
           transform: rotate(-30deg);
+}
+
+@media screen and (min-height: 0px) and (max-height: 576px) {
+  .footer .header__content {
+    margin-top: 70px;
+  }
 }
 
 @media screen and (min-width: 0px) and (max-width: 576px) {
